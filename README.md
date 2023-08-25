@@ -4,6 +4,7 @@
   
 # Sentinel: The Sentinel of Your Microservices
 
+// 测试
 ![CI](https://github.com/alibaba/sentinel-golang/workflows/CI/badge.svg?branch=master)
 [![codecov](https://codecov.io/gh/alibaba/sentinel-golang/branch/master/graph/badge.svg)](https://codecov.io/gh/alibaba/sentinel-golang)
 [![GoDoc](https://pkg.go.dev/badge/github.com/alibaba/sentinel-golang)](https://pkg.go.dev/github.com/alibaba/sentinel-golang)
